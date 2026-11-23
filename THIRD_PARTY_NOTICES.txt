@@ -17,6 +17,19 @@ Python packages are supplied from the official PyPI index (https://pypi.org/simp
 The original wheel license and package metadata files remain under runtime/Lib/site-packages.
 All direct and transitive package versions are pinned in requirements.txt.
 
+Pretendard (static fonts: Regular, SemiBold, Bold)
+Copyright (c) 2021 Kil Hyung-jin, with Reserved Font Name Pretendard.
+License: SIL Open Font License 1.1
+Included notice: fonts/OFL.txt
+Bundled unmodified. The font files remain under the OFL and are not covered by the
+repository's MIT license. License: https://scripts.sil.org/OFL
+
+OpenSSL libraries shipped inside the CPython embeddable distribution (libssl-3.dll,
+libcrypto-3.dll) carry the OpenSSL / Apache 2.0 notices included with CPython; see
+runtime/LICENSE.txt and the CPython Windows build notice.
+.NET Framework 4.8 and WPF are required on the host machine and are not redistributed
+with this package.
+
 certifi 2026.10.23
 Package: https://pypi.org/project/certifi/2026.10.23/
 License metadata: MPL-2.0
@@ -56,4 +69,8 @@ Referenced formulas and chart conventions: https://github.com/kdhchgo-bit/elliot
 The repository owner authorized this adaptation for the market dashboard.
 Chart callouts, ATR and trade-math conventions are adapted in native C#/WPF.
 Runtime implementation uses the package's local JSONL market observations.
+
+The dashboard repository itself is published under the MIT license (see LICENSE).
+That license covers the source in src/, build.ps1 and the collector scripts only; the
+bundled runtime, PyPI packages and fonts keep their own licenses above.
 
