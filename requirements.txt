@@ -1,0 +1,8 @@
+# Portable runtime: official CPython 3.13.17, Windows x86-64.
+# Static collector imports: requests; zoneinfo additionally uses tzdata on Windows.
+certifi==2026.10.23
+charset-normalizer==3.5.2
+idna==3.20
+requests==2.34.2
+tzdata==2026.6
+urllib3==2.8.0

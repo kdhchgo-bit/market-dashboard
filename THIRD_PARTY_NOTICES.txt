@@ -1,0 +1,59 @@
+Third-party software notices
+
+Bundled on 2026-11-12 (Asia/Seoul).
+
+Python 3.13.17 for Windows x86-64, official embeddable distribution.
+Release: https://www.python.org/downloads/release/python-31317/
+Source archive: https://www.python.org/ftp/python/3.13.17/python-3.13.17-embed-amd64.zip
+Downloaded ZIP SHA-256: 9e35319bffedab8b36ad44d8f377cb4f1733bcec257a0b6d04d94f01486ddb38
+License and bundled-component notices: runtime/LICENSE.txt
+Official embedding documentation: https://docs.python.org/3.13/using/windows.html#the-embeddable-package
+Module-path configuration: https://docs.python.org/3.13/using/windows.html#finding-modules
+
+Python ._pth configuration is supplied with site-packages and import site.
+No system Python, pip installation, registry entry, or background service is required.
+
+Python packages are supplied from the official PyPI index (https://pypi.org/simple).
+The original wheel license and package metadata files remain under runtime/Lib/site-packages.
+All direct and transitive package versions are pinned in requirements.txt.
+
+certifi 2026.10.23
+Package: https://pypi.org/project/certifi/2026.10.23/
+License metadata: MPL-2.0
+Included notice: runtime/Lib/site-packages/certifi-2026.10.23.dist-info/licenses/LICENSE
+
+charset-normalizer 3.5.2
+Package: https://pypi.org/project/charset-normalizer/3.5.2/
+License metadata: MIT
+Included notice: runtime/Lib/site-packages/charset_normalizer-3.5.2.dist-info/licenses/LICENSE
+
+idna 3.20
+Package: https://pypi.org/project/idna/3.20/
+License metadata: BSD-3-Clause
+Included notice: runtime/Lib/site-packages/idna-3.20.dist-info/licenses/LICENSE.md
+
+requests 2.34.2
+Package: https://pypi.org/project/requests/2.34.2/
+License metadata: Apache-2.0
+Included notice: runtime/Lib/site-packages/requests-2.34.2.dist-info/licenses/LICENSE
+Included notice: runtime/Lib/site-packages/requests-2.34.2.dist-info/licenses/NOTICE
+
+tzdata 2026.6
+Package: https://pypi.org/project/tzdata/2026.6/
+License metadata: Apache-2.0
+Included notice: runtime/Lib/site-packages/tzdata-2026.6.dist-info/licenses/LICENSE
+Included notice: runtime/Lib/site-packages/tzdata-2026.6.dist-info/licenses/licenses/LICENSE_APACHE
+
+urllib3 2.8.0
+Package: https://pypi.org/project/urllib3/2.8.0/
+License metadata: MIT
+Included notice: runtime/Lib/site-packages/urllib3-2.8.0.dist-info/licenses/LICENSE.txt
+
+Elliott Wave Report by kdhchgo-bit.
+Repository: https://github.com/kdhchgo-bit/elliott-wave-report
+Referenced procedure: https://github.com/kdhchgo-bit/elliott-wave-report/blob/main/SKILL.md
+Referenced formulas and chart conventions: https://github.com/kdhchgo-bit/elliott-wave-report/blob/main/references/repl-lib.js
+The repository owner authorized this adaptation for the market dashboard.
+Chart callouts, ATR and trade-math conventions are adapted in native C#/WPF.
+Runtime implementation uses the package's local JSONL market observations.
+

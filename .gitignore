@@ -1,0 +1,17 @@
+# Build output
+MarketDashboard.exe
+*.pdb
+*.log
+work/
+.build/
+
+# Bundled portable Python runtime (reinstall from requirements.txt)
+runtime/
+
+# Collected market data (machine-generated, large)
+collectors/data/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store

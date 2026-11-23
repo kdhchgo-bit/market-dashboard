@@ -1,0 +1,1290 @@
+[
+  {
+    "no": 1,
+    "file": "01_GLD.py",
+    "tag": "GLD",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 2,
+    "file": "02_USO.py",
+    "tag": "USO",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 3,
+    "file": "03_CPER.py",
+    "tag": "CPER",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 4,
+    "file": "04_UUP.py",
+    "tag": "UUP",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 5,
+    "file": "05_SPY.py",
+    "tag": "SPY",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 6,
+    "file": "06_QQQ.py",
+    "tag": "QQQ",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 7,
+    "file": "07_XLK.py",
+    "tag": "XLK",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 8,
+    "file": "08_XLE.py",
+    "tag": "XLE",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 9,
+    "file": "09_XLF.py",
+    "tag": "XLF",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 10,
+    "file": "10_XLV.py",
+    "tag": "XLV",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 11,
+    "file": "11_NVDA.py",
+    "tag": "NVDA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 12,
+    "file": "12_MSFT.py",
+    "tag": "MSFT",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 13,
+    "file": "13_XOM.py",
+    "tag": "XOM",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 14,
+    "file": "14_CVX.py",
+    "tag": "CVX",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 15,
+    "file": "15_JPM.py",
+    "tag": "JPM",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 16,
+    "file": "16_BAC.py",
+    "tag": "BAC",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 17,
+    "file": "17_LLY.py",
+    "tag": "LLY",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 18,
+    "file": "18_JNJ.py",
+    "tag": "JNJ",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 19,
+    "file": "19_BTC.py",
+    "tag": "BTC",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 20,
+    "file": "20_ETH.py",
+    "tag": "ETH",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 21,
+    "file": "21_SOL.py",
+    "tag": "SOL",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 22,
+    "file": "22_AVAX.py",
+    "tag": "AVAX",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 23,
+    "file": "23_AAVE.py",
+    "tag": "AAVE",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 24,
+    "file": "24_UNI.py",
+    "tag": "UNI",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 25,
+    "file": "25_CRV.py",
+    "tag": "CRV",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 26,
+    "file": "26_US_YIELDS.py",
+    "tag": "US_YIELDS",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 27,
+    "file": "27_BLS.py",
+    "tag": "BLS",
+    "kind": "Calendar",
+    "interval": 21600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 28,
+    "file": "28_FOMC.py",
+    "tag": "FOMC",
+    "kind": "Calendar",
+    "interval": 21600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 29,
+    "file": "29_ECB.py",
+    "tag": "ECB",
+    "kind": "Calendar",
+    "interval": 21600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 30,
+    "file": "30_BBC_WORLD.py",
+    "tag": "BBC_WORLD",
+    "kind": "News",
+    "interval": 300,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 31,
+    "file": "31_XLI.py",
+    "tag": "XLI",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 32,
+    "file": "32_XLU.py",
+    "tag": "XLU",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 33,
+    "file": "33_XLP.py",
+    "tag": "XLP",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 34,
+    "file": "34_XLY.py",
+    "tag": "XLY",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 35,
+    "file": "35_XLB.py",
+    "tag": "XLB",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 36,
+    "file": "36_XLRE.py",
+    "tag": "XLRE",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 37,
+    "file": "37_XLC.py",
+    "tag": "XLC",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 38,
+    "file": "38_DIA.py",
+    "tag": "DIA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 39,
+    "file": "39_IWM.py",
+    "tag": "IWM",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 40,
+    "file": "40_TLT.py",
+    "tag": "TLT",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 41,
+    "file": "41_IEF.py",
+    "tag": "IEF",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 42,
+    "file": "42_HYG.py",
+    "tag": "HYG",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 43,
+    "file": "43_VXX.py",
+    "tag": "VXX",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 44,
+    "file": "44_EEM.py",
+    "tag": "EEM",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 45,
+    "file": "45_EFA.py",
+    "tag": "EFA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 46,
+    "file": "46_SLV.py",
+    "tag": "SLV",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 47,
+    "file": "47_UNG.py",
+    "tag": "UNG",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 48,
+    "file": "48_DBA.py",
+    "tag": "DBA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 49,
+    "file": "49_FXE.py",
+    "tag": "FXE",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 50,
+    "file": "50_FXY.py",
+    "tag": "FXY",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 51,
+    "file": "51_AAPL.py",
+    "tag": "AAPL",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 52,
+    "file": "52_AMZN.py",
+    "tag": "AMZN",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 53,
+    "file": "53_GOOGL.py",
+    "tag": "GOOGL",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 54,
+    "file": "54_META.py",
+    "tag": "META",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 55,
+    "file": "55_TSLA.py",
+    "tag": "TSLA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 56,
+    "file": "56_AMD.py",
+    "tag": "AMD",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 57,
+    "file": "57_AVGO.py",
+    "tag": "AVGO",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 58,
+    "file": "58_WMT.py",
+    "tag": "WMT",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 59,
+    "file": "59_UNH.py",
+    "tag": "UNH",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 60,
+    "file": "60_MA.py",
+    "tag": "MA",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 61,
+    "file": "61_XRP.py",
+    "tag": "XRP",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 62,
+    "file": "62_DOGE.py",
+    "tag": "DOGE",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 63,
+    "file": "63_ADA.py",
+    "tag": "ADA",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 64,
+    "file": "64_LINK.py",
+    "tag": "LINK",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 65,
+    "file": "65_ARB.py",
+    "tag": "ARB",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--once"
+    ],
+    "args_repeat": [
+      "--once"
+    ]
+  },
+  {
+    "no": 66,
+    "file": "66_OP.py",
+    "tag": "OP",
+    "kind": "CoinBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 67,
+    "file": "67_FRED.py",
+    "tag": "FRED",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 68,
+    "file": "68_DXY.py",
+    "tag": "DXY",
+    "kind": "FxBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [
+      "--days",
+      "20"
+    ],
+    "args_repeat": [
+      "--days",
+      "1"
+    ]
+  },
+  {
+    "no": 69,
+    "file": "69_VIX.py",
+    "tag": "VIX",
+    "kind": "UsBar",
+    "interval": 300,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 70,
+    "file": "70_COINDESK.py",
+    "tag": "COINDESK",
+    "kind": "News",
+    "interval": 300,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 71,
+    "file": "71_CBOE_PCR_TOTAL.py",
+    "tag": "PCR_TOTAL",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 72,
+    "file": "72_CBOE_PCR_EQUITY.py",
+    "tag": "PCR_EQUITY",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 73,
+    "file": "73_CBOE_PCR_INDEX.py",
+    "tag": "PCR_INDEX",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 74,
+    "file": "74_VIX_TERM.py",
+    "tag": "VIX_TERM",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 75,
+    "file": "75_CBOE_SKEW.py",
+    "tag": "SKEW",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 76,
+    "file": "76_SPX_CHAIN.py",
+    "tag": "SPX_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 77,
+    "file": "77_VIX_OPTIONS.py",
+    "tag": "VIX_OPTIONS",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 78,
+    "file": "78_RUT_CHAIN.py",
+    "tag": "RUT_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 79,
+    "file": "79_SPY_CHAIN.py",
+    "tag": "SPY_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 80,
+    "file": "80_QQQ_CHAIN.py",
+    "tag": "QQQ_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 81,
+    "file": "81_DIA_CHAIN.py",
+    "tag": "DIA_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 82,
+    "file": "82_IWM_CHAIN.py",
+    "tag": "IWM_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 83,
+    "file": "83_TLT_CHAIN.py",
+    "tag": "TLT_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 84,
+    "file": "84_GLD_CHAIN.py",
+    "tag": "GLD_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 85,
+    "file": "85_USO_CHAIN.py",
+    "tag": "USO_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 86,
+    "file": "86_XLK_CHAIN.py",
+    "tag": "XLK_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 87,
+    "file": "87_XLF_CHAIN.py",
+    "tag": "XLF_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 88,
+    "file": "88_XLV_CHAIN.py",
+    "tag": "XLV_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 89,
+    "file": "89_EEM_CHAIN.py",
+    "tag": "EEM_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 90,
+    "file": "90_SLV_CHAIN.py",
+    "tag": "SLV_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 91,
+    "file": "91_NVDA_CHAIN.py",
+    "tag": "NVDA_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 92,
+    "file": "92_MSFT_CHAIN.py",
+    "tag": "MSFT_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 93,
+    "file": "93_AAPL_CHAIN.py",
+    "tag": "AAPL_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 94,
+    "file": "94_AMZN_CHAIN.py",
+    "tag": "AMZN_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 95,
+    "file": "95_GOOGL_CHAIN.py",
+    "tag": "GOOGL_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 96,
+    "file": "96_META_CHAIN.py",
+    "tag": "META_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 97,
+    "file": "97_TSLA_CHAIN.py",
+    "tag": "TSLA_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 98,
+    "file": "98_AMD_CHAIN.py",
+    "tag": "AMD_CHAIN",
+    "kind": "UsChain",
+    "interval": 900,
+    "timeout": 240,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 99,
+    "file": "99_CBOE_VVIX.py",
+    "tag": "VVIX",
+    "kind": "Daily",
+    "interval": 3600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 100,
+    "file": "100_OCC_EXPIRY.py",
+    "tag": "OCC_EXPIRY",
+    "kind": "Calendar",
+    "interval": 21600,
+    "timeout": 150,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 101,
+    "file": "101_BTC_DERIBIT.py",
+    "tag": "BTC_DERIBIT",
+    "kind": "CoinChain",
+    "interval": 900,
+    "timeout": 420,
+    "args_first": [],
+    "args_repeat": []
+  },
+  {
+    "no": 102,
+    "file": "102_ETH_DERIBIT.py",
+    "tag": "ETH_DERIBIT",
+    "kind": "CoinChain",
+    "interval": 900,
+    "timeout": 420,
+    "args_first": [],
+    "args_repeat": []
+  }
+]
